@@ -1,0 +1,6 @@
+print(f"tepi bawah {tepi_bawah}")
+            print(f"total frekuensi {total_frekuensi}")
+            print(f"frekuesni {frekuensi_kumulatif}")
+            print(f"sigma f {sigma_f}")
+            print(f"interval {panjang_interval}")
+            print("\n")
