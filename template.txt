@@ -4,3 +4,18 @@ print(f"tepi bawah {tepi_bawah}")
             print(f"sigma f {sigma_f}")
             print(f"interval {panjang_interval}")
             print("\n")
+
+
+
+
+print(f"batas bawah median: {l_m}")
+print(f"frekuensi kelas median: {f_m}")
+print(f"{c}")
+print(f"{F}")
+
+
+print(f"d1: {d1}")
+print(f"d2: {d2}")
+print(f"l_mo: {l_mo}")
+print(f"c: {c}")
+print(f"f_modus: {f_modus}")
